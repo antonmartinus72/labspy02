@@ -47,5 +47,7 @@ Jika Bilangan 1, 2, 3 **sama dengan** Bilangan 1, 2, 3 maka data akan di proses 
 ![3Bil_Out](https://github.com/antonmartinus72/labspy02/blob/master/img/4_Looking_f_3_Output.PNG)
 
 ### 5. Mencetak Output
+
 ![Print](https://github.com/antonmartinus72/labspy02/blob/master/img/5_Print_Output.PNG)
+
 Perintah ini digunakan untuk **mencetak** hasil dari perbandingan di atas yang nilai perbandingannya sudah dideklarasikan kembali sehingga hasil yang sudah **final** di masukan dalam Variabel "**Nam_Bil**" untuk nama bilangan dan "**Terbesar**" untuk nilai bilangan dan dicetak menggunakan fungsi print.
