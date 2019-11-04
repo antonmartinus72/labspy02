@@ -3,11 +3,11 @@ Disini akan membahas bagaimana mencari nilai terbesar dari 3 bilangan yang dimas
 
 **Diagram aliran data :**
 
-![Flowchart_project.py](https://github.com/antonmartinus72/labspy02/blob/master/img/5_Print_Output.PNG)
+![Flowchart_project.py](https://github.com/antonmartinus72/labspy02/blob/master/img/FChart_Anton.png)
 
 ### 1. Input Program
 
-![input](input)
+![input](https://github.com/antonmartinus72/labspy02/blob/master/img/1_Input.PNG)
 
 Kode di atas adalah kode yang digunakan untuk menggunakan input dari user untuk data yang akan di proses nantinya. Data yang akan di prosen harus berbentuk integer (int). **Bil1**, **Bil2** dan **Bil3** adalah variabel yang digunakan untuk memasukan input.
 
@@ -37,7 +37,7 @@ Jika **Bilangan 1** dan **Bilangan 2** bernilai **sama**, **dan Bilangan 1 tidak
 
 Saya menggunakan statement **elif** untuk mencari perbandingannya.
 
-![3Bil](https://github.com/antonmartinus72/labspy02/blob/master/img/3_Looking_f_2_Output.PNG)
+![3Bil](https://github.com/antonmartinus72/labspy02/blob/master/img/4_Looking_f_3.PNG)
 
 Perbandinganya adalah :
 Jika Bilangan 1, 2, 3 **sama dengan** Bilangan 1, 2, 3 maka data akan di proses yang menghasilkan output bilangan 1, 2, dan 3 **adalah yang terbesar** atau **sama**.
