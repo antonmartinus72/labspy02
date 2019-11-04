@@ -35,7 +35,7 @@ Jika **Bilangan 1** dan **Bilangan 2** bernilai **sama**, **dan Bilangan 1 tidak
 
 ### 3. Mencari Ketiga Bilangan Sama Besar
 
-Saya menggunakan statement **elif** untuk mencari perbandingannya.
+Saya menggunakan statement **elif** untuk mendeklarasikan perbandingannya.
 
 ![3Bil](https://github.com/antonmartinus72/labspy02/blob/master/img/4_Looking_f_3.PNG)
 
