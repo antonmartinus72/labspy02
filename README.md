@@ -34,7 +34,7 @@ Jika **Bilangan 1** dan **Bilangan 2** bernilai **sama**, **dan Bilangan 1 tidak
 
 ![2Bil_Out](https://github.com/antonmartinus72/labspy02/blob/master/img/3_Looking_f_2_Output.PNG)
 
-### 3. Mencari Ketiga Bilangan Sama Besar
+### 4. Mencari Ketiga Bilangan Sama Besar
 
 Saya menggunakan statement **elif** untuk mendeklarasikan perbandingannya.
 
@@ -46,9 +46,6 @@ Jika Bilangan 1, 2, 3 **sama dengan** Bilangan 1, 2, 3 maka data akan di proses 
 
 ![3Bil_Out](https://github.com/antonmartinus72/labspy02/blob/master/img/4_Looking_f_3_Output.PNG)
 
-### 4. Mencetak Output
+### 5. Mencetak Output
 ![Print](https://github.com/antonmartinus72/labspy02/blob/master/img/5_Print_Output.PNG)
 Perintah ini digunakan untuk **mencetak** hasil dari perbandingan di atas yang nilai perbandingannya sudah dideklarasikan kembali sehingga hasil yang sudah **final** di masukan dalam Variabel "**Nam_Bil**" untuk nama bilangan dan "**Terbesar**" untuk nilai bilangan dan dicetak menggunakan fungsi print.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MjkwNTY1OCwtMTU1MDQ4NjkxNF19
--->
